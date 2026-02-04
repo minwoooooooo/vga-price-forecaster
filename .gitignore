@@ -1,0 +1,31 @@
+# 1. 파이썬 캐시 및 시스템 파일
+__pycache__/
+*.py[cod]
+.DS_Store
+.streamlit/
+
+# 2. 가상환경
+venv/
+.venv/
+
+# 3. Dataset 폴더 관리 (구조는 유지하되 데이터는 제외)
+# Dataset 폴더 내의 모든 실시간 생성 데이터(.csv)를 기본적으로 제외합니다.
+Dataset/price_history/*
+Dataset/specs/*
+
+# 폴더 구조 자체를 깃허브에 남기기 위해 폴더는 예외 처리합니다.
+!Dataset/
+!Dataset/price_history/
+!Dataset/specs/
+
+# --- [특별 예외 설정: 유지하고 싶은 파일들] ---
+# 1. 마우스 스펙 파일 (기존 유지)
+!Dataset/mouse_specs.csv
+
+# 2. VGA_Total 폴더와 그 내부 파일들 (기존 유지)
+!Dataset/VGA_Total/
+!Dataset/VGA_Total/**
+
+# 4. 크롤링 시 발생하는 임시 파일 방지
+Crawlers/*.csv
+*.csv_Temp.csv
