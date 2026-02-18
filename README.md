@@ -1,4 +1,4 @@
-# 📊 VGA Price Vision: AI 기반 그래픽카드 시세 예측 솔루션
+#  VGA Price Vision: AI 기반 그래픽카드 시세 예측 솔루션
 
 <div align="center">
 
@@ -8,16 +8,11 @@
 
 <br>
 
-> **"과거의 데이터를 통해 미래의 가치를 읽다."**
-> <br>
-> 딥러닝(LSTM)을 활용하여 그래픽카드(VGA)의 과거 시계열 데이터를 분석하고, 
-> 향후 30일간의 가격 변동 범위를 예측하는 전문 AI 대시보드입니다.
-
 </div>
 
 <br>
 
-## 📺 프로젝트 데모 (Project Demo)
+## 프로젝트 데모 (Project Demo)
 
 <div align="center">
   [여기에 영상을 드래그 앤 드롭 하세요]
@@ -29,20 +24,20 @@
 ---
 
 <details>
-<summary><b>🔍 1. 핵심 기능 (Key Features) - [클릭]</b></summary>
+<summary><b> 1. 핵심 기능 (Key Features) - [클릭]</b></summary>
 
 <br>
 
-### 🛠 데이터 파이프라인
+### 데이터 파이프라인
 - **Crawling:** `Crawlers/` 내 스크립트를 통해 주기적인 하드웨어 시세 데이터 수집.
 - **Preprocessing:** 이동 평균(Smoothing) 기법을 통한 노이즈 캔슬링 및 이상치 제거.
 
-### 🤖 딥러닝 예측 모델
+###  딥러닝 예측 모델
 - **Architecture:** 2-Stack **LSTM** 구조를 통한 시계열 패턴 학습.
 - **Accuracy:** RTX 4060 기준 **R² Score 0.9846** 달성.
 - **Confidence Interval:** 단순 선형 예측이 아닌, RMSE 기반 **예측 신뢰 구간** 시각화.
 
-### 📈 데이터 인사이트 (EDA)
+### 데이터 인사이트 (EDA)
 - 요일별/월별 시세 빈도 분석 및 변수 간 상관관계(Heatmap) 제공.
 - 가격 변동 범위의 이상치를 탐지하는 박스플롯 분석 기능.
 
