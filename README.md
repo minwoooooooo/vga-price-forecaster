@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/d193f6eb-6ddd-49ed-a48f-5773e8286956
 #  VGA Price Vision: AI 기반 그래픽카드 시세 예측 솔루션
 
 <div align="center">
@@ -15,7 +17,10 @@
 ## 프로젝트 데모 (Project Demo)
 
 <div align="center">
-  [여기에 영상을 드래그 앤 드롭 하세요]
+
+https://github.com/user-attachments/assets/f10c9297-a9f1-4e63-9db7-578bc5c45739
+
+드래그 앤 드롭 하세요]
 
 </div>
 
