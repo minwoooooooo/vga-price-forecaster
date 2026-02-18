@@ -15,12 +15,8 @@
 ## 프로젝트 데모 (Project Demo)
 
 <div align="center">
-
 https://github.com/user-attachments/assets/f10c9297-a9f1-4e63-9db7-578bc5c45739
-
 </div>
-
-<br>
 
 ---
 
