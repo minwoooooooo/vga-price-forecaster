@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-  <img src="assets/20251218_VGA 시세 예측기.gif" width="90%" alt="Project Demo" />
+  <img src="assests/20251218_VGA%20시세%20예측기.gif" width="90%" alt="Project Demo" />
 </div>
 
 <br>
