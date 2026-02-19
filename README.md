@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-  > **[Project Demo Video]** > https://github.com/user-attachments/assets/f10c9297-a9f1-4e63-9db7-578bc5c45739
+  <img src="assets/20251218_VGA 시세 예측기.gif" width="90%" alt="Project Demo" />
 </div>
 
 <br>
