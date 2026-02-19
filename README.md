@@ -30,7 +30,7 @@
 
 ### Data Pipeline & Preprocessing
 * **Automated Crawling:** `Crawlers/` 모듈을 통해 주요 하드웨어 커뮤니티 및 마켓의 시세 데이터를 수집
-* **출처:**https://github.com/sammy310/Danawa-Crawler
+* **출처:** https://github.com/sammy310/Danawa-Crawler
 
 ### Deep Learning Model (LSTM)
 * **Architecture:** 시계열 데이터의 장기 의존성(Long-term dependency) 학습에 최적화된 **2-Stack LSTM** 구조를 설계
