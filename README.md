@@ -70,3 +70,11 @@ vga-price-forecaster/
 ├── assets/                 # README 리소스
 ├── requirements.txt        # 프로젝트 의존성 패키지 목록
 └── README.md               # 프로젝트 문서
+```
+
+## 5. 첨부자료
+<p>
+  <a href="AI 기반 VGA 분석 예측 시스템.hwp">
+    <img src="https://img.shields.io/badge/Download-Project_Report_(HWP)-0078D4?style=for-the-badge&logo=googledocs&logoColor=white">
+  </a>
+</p>
